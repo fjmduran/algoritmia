@@ -16,4 +16,4 @@ Para correr el proyecto en local:
 [Ver explicación](https://fjmduran.com/blog/algoritmia-stack-parentesis)
 
 - **Ordenar dígitos**; algorimo para ordenar los dígitos de un número dado.
-[Ver explicación](https://fjmduran.com/blog/algoritmia-stack-parentesis)
+[Ver explicación](https://fjmduran.com/blog/algoritmia-ordenar-digitos)
